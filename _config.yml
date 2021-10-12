@@ -1,0 +1,8 @@
+title: Html5demo
+description: HTML5实现生日祝福
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
